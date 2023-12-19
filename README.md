@@ -1,4 +1,7 @@
-### Hi there 👋
+### Welcome to the not good enough for production zone.
+
+🐍 I'm currently working on a wrapper for some google cloud libraries
+that'll play nicer with pydantic & dataclasses. 
 
 <!--
 **ColinAsheGIS/ColinAsheGIS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
